@@ -12,7 +12,7 @@ I am a full stack web developer
 * 🤝  I'm open to collaborating on New startups and developing new software
 * ⚡  Na
 
-<a href="https://www.github.com/Aasthakhare" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/Aasthakhare0304" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Aasthakhare?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
